@@ -12,6 +12,7 @@ const emojiArray = [
     { emoji: '😉', code: '128521' },
     { emoji: '😊', code: '128522' },
     { emoji: '😋', code: '128523' }
+    
 ];
 
 // Select the section where emojis will be added

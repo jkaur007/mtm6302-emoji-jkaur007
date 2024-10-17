@@ -1,5 +1,3 @@
-/* Optional CSS reset */
-
 /* General styling */
 body {
     font-family: Arial, sans-serif;
@@ -9,6 +7,7 @@ body {
 
 h1 {
     margin-bottom: 20px;
+    
 }
 
 /* Emoji grid styling */
@@ -20,7 +19,7 @@ h1 {
     align-items: center;
     padding: 20px;
 }
-
+/* all the emoji in the array */
 .emoji-item {
     display: flex;
     flex-direction: column;
@@ -32,7 +31,7 @@ h1 {
     height: 80px;
     font-size: 2rem;
 }
-
+/* all the code of the emoji in the array */
 .emoji-code {
     margin-top: 10px;
     font-size: 12px;
